@@ -2,7 +2,7 @@ pandas
 numpy
 plotly
 scikit-learn
-tensorflow
+tensorflow-cpu==2.15.0
 streamlit
 joblib
 gdown
